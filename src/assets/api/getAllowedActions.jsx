@@ -25,13 +25,13 @@ function AllowedActions() {
                 "actionId": 32,
                 "actionUrl": "capacity",
                 "action": "Capacity",
-                "roleIsActive": false
+                "roleIsActive": true
               },
               {
                 "actionId": 33,
                 "actionUrl": "revenue",
                 "action": "Revenue",
-                "roleIsActive": false
+                "roleIsActive": true
               },
               {
                 "actionId": 34,

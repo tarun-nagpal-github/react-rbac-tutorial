@@ -25,7 +25,7 @@ function AllowedActions() {
                 "actionId": 32,
                 "actionUrl": "capacity",
                 "action": "Capacity",
-                "roleIsActive": true
+                "roleIsActive": false
               },
               {
                 "actionId": 33,

@@ -31,7 +31,7 @@ function AllowedActions() {
                 "actionId": 33,
                 "actionUrl": "revenue",
                 "action": "Revenue",
-                "roleIsActive": true
+                "roleIsActive": false
               },
               {
                 "actionId": 34,

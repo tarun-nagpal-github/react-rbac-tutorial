@@ -37,7 +37,7 @@ function AllowedActions() {
                 "actionId": 34,
                 "actionUrl": "errors",
                 "action": "Errors",
-                "roleIsActive": true
+                "roleIsActive": false
               },
               {
                 "actionId": 35,
